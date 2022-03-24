@@ -14,3 +14,5 @@ wochentage[4] = "nochNichtFreitag"
 }
 
 let Monate = ["Januar", "Februar", "März", "April","Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
+
+//das blöd
